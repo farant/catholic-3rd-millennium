@@ -99,4 +99,7 @@
 * Tools for subsidiarity organization / city states
 * Interactive well-illustrated Catholic encyclopedia
 * Tools for studying, recording and sharing quotes from books
+* Free tools to empower and teach people regarding tasks common to every family or small business, such as budgeting, accounting, meal planning, keeping track of bills, recurring tasks, etc.
+* A file format for building homeschool curriculums and sharing pieces or all of them easily with others
+* Some kind of Catholic payment platform that allows people to request and offer financial assistance (also perhaps to request and recieve other kinds of assistance, similar to the St Vincent de Paul Society?)
 * ???
