@@ -9,7 +9,7 @@
   * For the most part our society can't even concieve of spirit let alone spiritual good. 
   * The minority that believe in some kind of "spiritual reality" are primarily pagans that are inflicting spiritual harm out of ignorance or malice
 * You can make infinite copies of digital software or media for basically free. This is practically and economically unprecedented.
-* The internet allows communication and geographically independent social cohesion not equivalent to physical proximity but greater
+* The internet allows communication and geographically independent social cohesion not equivalent to physical proximity but greater than anything previously available.
 * What are the key, unique use cases of software:
   * Video recording and distribution
   * Record based databases
