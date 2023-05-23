@@ -97,4 +97,6 @@
 * Catholic operating system with limitations designed to encourage computers to have an appropriate place in people's lives
 * Alternative Catholic "internet" again with design limitations to avoid unhealthy uses
 * Tools for subsidiarity organization / city states
+* Interactive well-illustrated Catholic encyclopedia
+* Tools for studying, recording and sharing quotes from books
 * ???
