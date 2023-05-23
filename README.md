@@ -18,6 +18,8 @@
   * Interactive simulations
   * Encoding domain knowledge
   * Cheap or free reading material
+  * Automated language translation
+  * A global "public square"
   * Creating digital illustrations
   * Typewriters with infinite paper
   * Extremely space efficient document storage
