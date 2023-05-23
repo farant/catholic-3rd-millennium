@@ -14,6 +14,7 @@
   * Video recording and distribution
   * Record based databases
   * Graph based databases
+  * Change ledgers
   * Reminders
   * Interactive simulations
   * Encoding domain knowledge
