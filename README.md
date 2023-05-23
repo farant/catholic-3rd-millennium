@@ -21,6 +21,7 @@
   * Automated language translation
   * A global "public square"
   * Creating digital illustrations
+  * Creating animations
   * Typewriters with infinite paper
   * Extremely space efficient document storage
   * Generative illustrations
