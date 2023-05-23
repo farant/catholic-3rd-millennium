@@ -54,3 +54,27 @@
 * Is it possible for computers and the internet to be used in a positive way?
 * Are there proper uses for machine learning models or are there inherent inescapable disorders?
 
+
+### What are society wide problems?
+
+* People going to Heaven
+* Serving and loving the Holy Trinity
+* Deeply-rooted and confusing demonic heresies that people don't know how to extract themselves from
+* General lack of virtue
+* Raising future generations of good priests
+* Abortion
+* Population collapse
+* Ignorance of history
+* Extreme pressures and disorder in the family
+* Disproportionate influence of malevolent groups of actors
+* Lack of coordination to build and maintain beneficial infrastructure
+* Society-wide communication about and understanding of the truth
+* Social polarization and hostility 
+* Homelessness and poverty / dysfunctional industrialized "charity"
+* Catechizing
+* Ugliness
+* Learned helplessness
+* Christian unity
+* Addressing social vulnerabilities to prevent future collapses of society (i.e. the "enlightenment")
+* Poorly designed social systems that do not take advantage of modern technologies
+* Honorable stewardship of what God has given us
