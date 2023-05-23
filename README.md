@@ -90,7 +90,7 @@
 * A interactive graph of syllogisms and dependencies between syllogisms for people to navigate debates
 * A central hub that kind of describes and maps out the Catholic online / media landscape
 * Tools to create community for geographically dispersed catholics
-* Software for learning latin
+* Software for learning latin / greek / hebrew
 * Catholic youtube
 * Tools for handling the operational aspect of different vocations
 * Tools to train people to have careers as programmers
