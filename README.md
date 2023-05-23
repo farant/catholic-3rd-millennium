@@ -78,3 +78,22 @@
 * Addressing social vulnerabilities to prevent future collapses of society (i.e. the "enlightenment")
 * Poorly designed social systems that do not take advantage of modern technologies
 * Honorable stewardship of what God has given us
+
+
+### Ideas for software
+
+* Digital "family book" tools for families to pass on knowledge and purpose to future generations
+* Historical timelines
+* An actual all catholic twitter
+* Operational / organizational software for collaboration on catholic projects
+* An interactive "catechism" with very high production values
+* A interactive graph of syllogisms and dependencies between syllogisms for people to navigate debates
+* A central hub that kind of describes and maps out the Catholic online / media landscape
+* Tools to create community for geographically dispersed catholics
+* Software for learning latin
+* Catholic youtube
+* Tools for handling the operational aspect of different vocations
+* Tools to train people to have careers as programmers
+* Catholic operating system with limitations designed to encourage computers to have an appropriate place in people's lives
+* Alternative Catholic "internet" again with design limitations to avoid unhealthy uses
+* ???
