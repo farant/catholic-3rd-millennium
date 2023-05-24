@@ -110,10 +110,7 @@
 
 https://www.youtube.com/watch?v=InlbmbGxOK0
 
-<ul style="color: cyan;">
- <li>Hello</li>
- <li>world</li>
-</ul>
+(wip 😬, not an expert but I think there are some important things to think about taking into account modern internet / software)
 
 ```
 1. What is the material nature of government?
@@ -123,10 +120,16 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 1.1.2. Does the system only incorporate humans?
 1.1.2.1. No, the system incorporates (i.e. responds to and affects in varying degrees) 
          every element of the geographic region in which the system is operational
-1.1.3. What is a system
+1.1.3. What is a system?
+1.1.3.1. "In the most basic sense, a system is any group of interacting, interrelated,
+         or interdependent parts that form a complex and unified whole that has a
+         specific purpose. The key thing to remember is that all the parts are inter-
+         related and interdependent in some way. Without such interdependencies, we
+         have just a collection of parts, not a system." 
+         -- https://thesystemsthinker.com/introduction-to-systems-thinking/
 
 2. Are all human systems categorizable as governments?
-2.1. No, there are many human systems that are not governments
+2.1. No, there are many human systems that are not governments.
 
 3. What is the distinguising quality of a "government" that distinguishes it from other
    kinds of human systems?
@@ -147,44 +150,71 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
          begin to be too physically isolated from the "on the ground reality" that their
          decision making is affecting.
 
-6. Do we live in a world of mostly perfect governments?
-6.1. No, we live in a world of very imperfect governments.
-6.1.1. Almost every government in the world is far too large
+6. How can we categorize the ways a government can be imperfect?
+6.1. We can classify the imperfections of a government as either imperfections of scope,
+     structure or governing.
+     
+7. What are the imperfections of scope?
+7.1 Being too geographically large is an imperfection of scope.
+7.2 Incorporating too many people is an imperfection of scope.
 
-7. What are the negative consequences of imperfect governments?
-7.1 Imperfect governments are ripe for demonic manipulation
+8. What are the imperfections of structure?
+8.1. A disordered relationship to Christ's church.
+8.2. A disordered relationship to the sovereign family.
+8.3. A disordered relationship to other important 
+     human systems.
+8.4. Lack of ability to exercise force
+8.5. Lack of ability to legislate laws when needed
+8.6. Lack of ability to adjudicate
 
-8. Why are imperfect governments ripe for demonic manipulation?
-8.1. Demons generally are able to succeed at severely corrupting a small number of 
+9. What are the imperfections of governing? 
+9.1. A government can be imperfect due to immoral law.
+9.2. A government can be imperfect due to abuse of it's ability to exercise force.
+9.3. A government can be imperfect if it fails to enforce the law.
+9.5. A government can be disordered if it tries to achieve goods outside of its
+     natural purpose.
+9.6. A government can be imperfect if it fails to adapt its laws prudently to
+     to the practical realities in which it governs.
+
+7. Do we live in a world of mostly perfect governments?
+7.1. No, we live in a world of very imperfect governments.
+7.1.1. Almost every government in the world is far too large
+7.1.2. Almost every government in the world is imperfect in all the ways enumerated above in 6.1 through 6.9.
+
+8. What are the negative consequences of imperfect governments?
+8.1 Imperfect governments are ripe for demonic manipulation
+
+9. Why are imperfect governments ripe for demonic manipulation?
+9.1. Demons generally are able to succeed at severely corrupting a small number of 
      people, succeed at moderately corrupting a moderate number of people, and succeed 
      at lying to a great number of people.
-8.2. In a human system are the inviduals demons target for severe corruption distributed 
+9.2. In a human system are the inviduals demons target for severe corruption distributed 
      at random?
-8.2.1. No, in a human system demons will specifically target the individuals with the 
+9.2.1. No, in a human system demons will specifically target the individuals with the 
        greatest power to warp the system towards evil
-8.3. In a more imperfect government (i.e. a "larger" government) individuals targeted for 
+9.3. In a more imperfect government (i.e. a "larger" government) individuals targeted for 
      severe corruption have the potential to exercise evil over a greater number people 
      with less natural checks that would be available to correct or remove that individual 
      from power as there would be in a more perfect government.
 
-9. What is the purpose of the special powers that government has relative to other 
-   human systems?
-9.1. A government exists to mediate between its citizens and families as well as it can 
-     to protect them from the negative affects of fallen human nature, demonic corruption 
-     and to resolve disputes between individuals when these functions cannot be 
-     accomplished by any other human system.
+10. What is the purpose of the special powers that government has relative to other 
+    human systems?
+10.1. A government exists to mediate between its citizens and families as well as it can 
+      to protect them from the negative affects of fallen human nature, demonic corruption 
+      and to resolve disputes between individuals when these functions cannot be 
+      accomplished by any other human system.
 
-10. Do imperfect governments only use their special powers for their intended purposes?
-10.1. No, one of the primary ways that imperfect governments are distorted as a system 
+11. Do imperfect governments only use their special powers for their intended purposes?
+11.1. No, one of the primary ways that imperfect governments are distorted as a system 
       is to wield their special power in ways that are outside of the scope of their 
       special purpose.
-10.1.1. Are all cases of a government using its special powers outside of their scope due 
+11.1.1. Are all cases of a government using its special powers outside of their scope due 
         to demonic corruption?
-10.1.1.1. No, this distortion of government can also be caused by fallen human nature or 
+11.1.1.1. No, this distortion of government can also be caused by fallen human nature or 
           by well-intentioned individuals trying to use the powers of government to 
           accomplish some kind of good.
-10.1.2. If a government's powers are used to accomplish an objective moral good that is 
+11.1.2. If a government's powers are used to accomplish an objective moral good that is 
         outside of the natural scope of the government's purpose is that act morally good?
-10.1.2.1. No, it is not morally good due to the principal of the integral good. Disordered
+11.1.2.1. No, it is not morally good due to the principal of the integral good. Disordered
           means lead to disordered outcomes.
 ```
