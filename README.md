@@ -110,6 +110,7 @@
 
 https://www.youtube.com/watch?v=InlbmbGxOK0
 
+```
 1. What is the material nature of government?
 1.1. You can describe law and government as a "human system"
 1.1.1. Why is it a "human" system?
@@ -155,4 +156,4 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 10.1.1.1. No, this distortion of government can also be caused by fallen human nature or by well-intentioned individuals trying to use the powers of government to accomplish some kind of good.
 10.1.2. If a government's powers are used to accomplish an objective moral good that is outside of the natural scope of the government's purpose is that act morally good?
 10.1.2.1 No, it is not morally good due to the principal of the integral good. Disordered means lead to disordered outcomes.
-
+```
