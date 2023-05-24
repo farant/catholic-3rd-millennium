@@ -103,3 +103,56 @@
 * A file format for building homeschool curriculums and sharing pieces or all of them easily with others
 * Some kind of Catholic payment platform that allows people to request and offer financial assistance (also perhaps to request and recieve other kinds of assistance, similar to the St Vincent de Paul Society?)
 * ???
+
+
+
+### Ideas for government
+
+https://www.youtube.com/watch?v=InlbmbGxOK0
+
+1. What is the material nature of government?
+1.1. You can describe law and government as a "human system"
+1.1.1. Why is it a "human" system?
+1.1.1.1. Because human beings are the driving force that animate the system
+1.1.2. Does the system only incorporate humans?
+1.1.2.1. No, the system incorporates (i.e. responds to and affects in varying degrees) every element of the geographic region in which the system is operational
+1.1.3. What is a system
+
+2. Are all human systems categorizable as governments?
+2.1. No, there are many human systems that are not governments
+
+3. What is the distinguising quality of a "government" that distinguishes it from other kinds of human systems?
+3.1. The distinguishing quality of a government is a that it is larger than a family and it exercises the function of creating laws with the ability to enforce those laws through physical power.
+
+4. Is it more perfect or less perfect for governments to overlap geographically?
+4.1. It is less perfect for governments to overlap geographically
+
+5. Is it more perfect for a government to be geographically large or geographically small?
+5.1. The most perfect size of a government is relatively small geographic region containing ~50,000-100,000 people
+5.1.1 Why is a government incorporating ~100,000 people more perfect
+5.1.1.1 Because larger than that size people within the human system cannot sustain personal relationships with eachother
+5.1.1.2 Because larger than the implied geographical size lawmakers and law enforcers begin to be too physically isolated from the "on the ground reality" that their decision making is affecting
+
+6. Do we live in a world of mostly perfect governments?
+6.1 No, we live in a world of very imperfect governments.
+6.1.1 Almost every government in the world is far too large
+
+7. What are the negative consequences of imperfect governments?
+7.1 Imperfect governments are ripe for demonic manipulation
+
+8. Why are imperfect governments ripe for demonic manipulation?
+8.1. Demons generally are able to succeed at severely corrupting a small number of people, succeed at moderately corrupting a moderate number of people, and succeed at lying to a great number of people.
+8.2. In a human system are the inviduals demons target for severe corruption distributed at random?
+8.2.1 No, in a human system demons will specifically target the individuals with the greatest power to warp the system towards evil
+8.3. In a more imperfect government (i.e. a "larger" government) individuals targeted for severe corruption have the potential to exercise evil over a greater number people with less natural checks that would be available to correct or remove that individual from power as there would be in a more perfect government.
+
+9. What is the purpose of the special powers that government has relative to other human systems?
+9.1 A government exists to mediate between its citizens and families as well as it can to protect them from the negative affects of fallen human nature, demonic corruption and to resolve disputes between individuals when these functions cannot be accomplished by any other human system.
+
+10. Do imperfect governments only use their special powers for their intended purposes?
+10.1. No, one of the primary ways that imperfect governments are distorted as a system is to wield their special power in ways that are outside of the scope of their special purpose.
+10.1.1. Are all cases of a government using its special powers outside of their scope due to demonic corruption?
+10.1.1.1. No, this distortion of government can also be caused by fallen human nature or by well-intentioned individuals trying to use the powers of government to accomplish some kind of good.
+10.1.2. If a government's powers are used to accomplish an objective moral good that is outside of the natural scope of the government's purpose is that act morally good?
+10.1.2.1 No, it is not morally good due to the principal of the integral good. Disordered means lead to disordered outcomes.
+
