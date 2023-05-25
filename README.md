@@ -182,8 +182,9 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
         with perhaps a few exceptions.
 
 11. What are the negative consequences of imperfect governments?
-11.1. Imperfect governments are ripe for demonic manipulation
-11.2. Imperfect governments can legislate and enforce unjust and immoral laws
+11.1. Governments that are imperfect in scope are ripe for demonic manipulation.
+11.2. Imperfections of structure lead to imperfections of governing.
+11.3. Imperfections of governing are intrinsically harmful.
 
 12. Why are governments imperfect in scope ripe for demonic manipulation?
 12.1. Demons generally are able to succeed at severely corrupting a small number of 
