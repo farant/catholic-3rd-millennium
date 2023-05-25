@@ -165,7 +165,7 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 
 9. What are the imperfections of governing? 
 9.1. Governing can be imperfect due to immoral law.
-9.2. Governing can be imperfect due to abuse of it's ability to exercise force.
+9.2. Governing can be imperfect due to abuse of its ability to exercise force.
 9.3. Governing can be imperfect if it fails to enforce the law.
 9.5. Governing can be disordered if it tries to achieve goods outside of its
      natural purpose.
@@ -225,7 +225,7 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 15. Is physical force the only kind of force that can be applied by a human system?
 15.1. No, there a six kinds of force that can be applied by a human system.
 15.1.1. Physical force
-15.1.2. Exclusion from the sacraments (in the case of the Church and its special powers)
+15.1.2. Exclusion from the sacraments (exercised by the Church via its special powers)
 15.1.3. Economic force
 15.1.4. Truth
 15.1.5. Beauty
