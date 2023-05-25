@@ -193,11 +193,12 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 12.2. In a human system are the inviduals demons target for severe corruption distributed 
       at random?
 12.2.1. No, in a human system demons will specifically target the individuals with the 
-        most natural authority to disorder the system towards evil.
+        most responsibility to preserve the system and those with the most natural 
+        authority to disorder the system towards evil.
 12.2.1.1. This is permitted because God desires greater perfection from those to whom 
           he gives greater natural authority.
-12.2.2. The amount of demonic attack someone is subject to is proportional to their power
-        to affect the system. 
+12.2.2. The amount of demonic attack someone is subject to is proportional to their
+        natural authority or responsibility within the system. 
 12.2.2.1. A man must exercise virtue and reliance on God proportional to his responsibility
           and power if he is not willing to serve demonic purposes. 
 12.2.3. If through ignorance or fallen human nature an individual is already serving
