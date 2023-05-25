@@ -205,7 +205,7 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
         and God wants to help them.
 12.3.2. God provides greater perfection to the leader to resist mortal sin through
         perfectly tempered allowance of demonic activity that can be carefully
-        modulated to never exceed what the individual can bear.
+        modulated to never exceed what they can bear.
 12.3.3. The individual is actually much safer while under demonic attack since
         demons are completely subject to God's authority. This is in contrast to 
         beind scandalized by human free will which God does not directly restrain.
