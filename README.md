@@ -249,19 +249,30 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 18. Are the harmful or non-harmful forces more perfect?
 18.1. The non-harmful forces are more perfect because while harmful forces can compel
       the exterior behavior of man the non-harmful forces can compel his inner nature.
-      
-19. Do demons attempt to gain control over human systems that can apply harmful force?
-19.1. Yes, demons will always attempt gain control over human systems that apply
+
+19. Is it possible to resist the non-harmful forces?
+19.1. Yes it is possible to resist the non-harmful forces but it requires a
+      disordered will.
+19.1.1. The stronger the non-harmful force the stronger must be the disordered will.
+
+20. Is it common for people to have strong disordered wills?
+20.1. No, most people have disordered wills that are weak.
+20.1.1. To have a strong disordered will one most more explicitly set oneself against
+        God. This is less common because it is painful to do so and because most people 
+        do not exercise substantial control over their beliefs.
+
+21. Do demons attempt to gain control over human systems that can apply harmful force?
+21.1. Yes, demons will always attempt gain control over human systems that apply
       harmful force.
      
-20. Do demons attempt to gain control over human systems that apply non-harmful force?
-20.1. No, demons will not attempt to control systems that apply non-harmful force
+22. Do demons attempt to gain control over human systems that apply non-harmful force?
+22.1. No, demons will not attempt to control systems that apply non-harmful force
       because the non-harmful forces of Truth, Beauty and Witness always work some good
       and are therefore incompatible with demonic ends. 
-20.2. Instead demons will attempt to destroy the system and replace it with a system
+22.2. Instead demons will attempt to destroy the system and replace it with a system
       that is impotent and generates the inverse of the non-harmful forces: Lies, 
       Ugliness and Secrecy.
-20.2.1. Lies, Ugliness and Secrecy are impotent because they lack the ability to compel
+22.2.1. Lies, Ugliness and Secrecy are impotent because they lack the ability to compel
         man's exterior behavior or his inner nature against his will (the will must
         co-operate for them to effect a change).
      
