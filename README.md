@@ -226,7 +226,7 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
           means lead to disordered outcomes.
           
 15. Is physical force the only kind of force that can be applied by a human system?
-15.1. No, there a six kinds of force that can be applied by a human system.
+15.1. No, there are seven kinds of force that can be applied by a human system.
 15.1.1. Physical force
 15.1.2. Exclusion from the sacraments (exercised by the Church via its special powers)
 15.1.3. Economic force
@@ -234,17 +234,18 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 15.1.5. Beauty
 15.1.6. Witness
 15.1.6.1. Witness means that an individual is aware their behavior is being observed.
-15.1.6.2. The force of witness is proportional to the moral virtue of the observers.
+15.1.6.2. The force of witness is proportional to the virtue of the observers.
+15.1.7. Natural authority
 
-16. Why are the six human system forces considered forces?
+16. Why are the seven human system forces considered forces?
 16.1. Because they can be directed to compel the behavior of a man against his will.
 
-17. Can you categorize the six human system forces?
+17. Can you categorize the seven human system forces?
 17.1 Yes. Forces can be categorized as "harmful" or "non-harmful"
-17.1.1 Physical force, exclusion from the sacraments and economic force are harmful 
+17.1.1. Physical force, exclusion from the sacraments and economic force are harmful 
        forces because their application always harms their object.
-17.1.2 Truth, beauty and witness are non-harmful because their application never harms 
-       their object and in fact works some good.
+17.1.2. Truth, beauty, witness and natural authority are non-harmful because their 
+        application never harms a human object and in fact works some good.
        
 18. Are the harmful or non-harmful forces more perfect?
 18.1. The non-harmful forces are more perfect because while harmful forces can compel
@@ -253,12 +254,13 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 19. Is it possible to resist the non-harmful forces?
 19.1. Yes it is possible to resist the non-harmful forces but it requires a
       disordered will.
-19.1.1. The stronger the non-harmful force the stronger must be the disordered will.
+19.1.1. The stronger the non-harmful force the stronger must be the disordered will
+        to resist.
 
 20. Is it common for people to have strong disordered wills?
 20.1. No, most people have disordered wills that are weak.
-20.1.1. To have a strong disordered will one most more explicitly set oneself against
-        God. This is less common because it is painful to do so and because most people 
+20.1.1. To have a strong disordered will one must most explicitly set oneself against
+        God. This is not common because it causes pain to do so and because most people 
         do not exercise substantial control over their beliefs.
 
 21. Do demons attempt to gain control over human systems that can apply harmful force?
@@ -267,14 +269,33 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
      
 22. Do demons attempt to gain control over human systems that apply non-harmful force?
 22.1. No, demons will not attempt to control systems that apply non-harmful force
-      because the non-harmful forces of Truth, Beauty and Witness always work some good
-      and are therefore incompatible with demonic ends. 
+      because the non-harmful forces of Truth, Beauty, Witness and Natural Authority
+      always work some good and are therefore incompatible with demonic ends. 
 22.2. Instead demons will attempt to destroy the system and replace it with a system
       that is impotent and generates the inverse of the non-harmful forces: Lies, 
-      Ugliness and Secrecy.
-22.2.1. Lies, Ugliness and Secrecy are impotent because they lack the ability to compel
-        man's exterior behavior or his inner nature against his will (the will must
-        co-operate for them to effect a change).
-     
-     
+      Ugliness, Secrecy and Rebellion
+22.2.1. Lies, Ugliness, Secrecy and Rebellion are impotent because they lack the ability
+        to compel man's exterior behavior or his inner nature against his will (the will
+        must co-operate for them to effect a change).
+    
+23. If we are subject to a gravely imperfect government do we have an obligation to 
+    correct its disorders?
+23.1. Yes.
+
+24. If we are aware of a gravely imperfect government but are not subject to its
+    power do we have an obligation to correct its disorders?
+24.1. Yes. 
+24.1.1. We have an obligation out of charity
+24.1.2. We have an obligation to other members of the body of Christ
+24.1.3. We are bound by our love for Jesus who died for the salvation of every soul.
+
+25. How are the disorders of a government corrected?
+25.1. Roughly speaking a government is reflective of the faction of the population
+      holding the majority of power in regards to the seven human forces.
+25.1.1. Often this faction does not hold numerical majority due to concentration
+        of power in harmful forces.
+25.2. If the faction holding the majority of power becomes less disordered then the
+      government will become less disordered.
+25.3. If a less disordered faction gains the majority of power the government will
+      change to reflect the less disordered faction.
 ```
