@@ -186,7 +186,7 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 11.2. Imperfections of structure lead to imperfections of governing.
 11.3. Imperfections of governing are intrinsically harmful.
 
-12. Why are governments imperfect in scope ripe for demonic manipulation?
+12. Why are governments that are imperfect in scope ripe for demonic manipulation?
 12.1. Demons generally are able to succeed at severely corrupting a small number of 
       people, succeed at moderately corrupting a moderate number of people, and succeed 
       at lying to a great number of people.
