@@ -176,7 +176,6 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
         with perhaps a few exceptions.
 
 11. What are the negative consequences of imperfect governments?
-
 11.1. Imperfections of scope, i.e. governments larger than 100,000 people, lead 
       to many negative consequences.
 11.1.1. There is a greater capacity for harm when leaders fall prey to moral 
