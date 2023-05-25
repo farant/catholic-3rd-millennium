@@ -110,7 +110,7 @@
 
 https://www.youtube.com/watch?v=InlbmbGxOK0
 
-(wip 😬, not an expert but I think there are some important things to think about taking into account modern internet / software)
+(work in progress, my understanding of thomistic stuff is not super deep yet so there's probably stuff i'm not specifying correctly 😬 I do think there are some important things to consider taking into account modern internet / software)
 
 ```
 1. What is the material nature of government?
@@ -121,21 +121,17 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 1.1.2.1. No, the system incorporates (i.e. responds to and affects in varying degrees) 
          every element of the geographic region in which the system is operational
 1.1.3. What is a system?
-1.1.3.1. "In the most basic sense, a system is any group of interacting, interrelated,
-         or interdependent parts that form a complex and unified whole that has a
-         specific purpose. The key thing to remember is that all the parts are inter-
-         related and interdependent in some way. Without such interdependencies, we
-         have just a collection of parts, not a system." 
-         -- https://thesystemsthinker.com/introduction-to-systems-thinking/
+1.1.3.1. A system is a complex group of interacting parts that is directed towards
+         specific purposes.
 
 2. Are all human systems categorizable as governments?
 2.1. No, there are many human systems that are not governments.
-2.1.1. Examples include: the Church, the family, businesses, groups of friends, 
-       religious communities and volunteer groups.
+2.1.1. Examples include: the Church, the family, businesses, religious communities and 
+       volunteer groups.
 
 3. What is the distinguishing quality of a "government" that distinguishes it from other
    kinds of human systems?
-3.1. The distinguishing quality of a government is a that it is larger than a family and
+3.1. The distinguishing quality of a government is that it is larger than a family and
      it exercises the function of creating laws with the ability to enforce those laws 
      through physical force.
 
@@ -169,13 +165,13 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 8.5. Lack of ability to legislate laws when needed
 8.6. Lack of ability to adjudicate
 
-9. What are the imperfections of government? 
-9.1. A government can be imperfect due to immoral law.
-9.2. A government can be imperfect due to abuse of it's ability to exercise force.
-9.3. A government can be imperfect if it fails to enforce the law.
-9.5. A government can be disordered if it tries to achieve goods outside of its
+9. What are the imperfections of governing? 
+9.1. Governing can be imperfect due to immoral law.
+9.2. Governing can be imperfect due to abuse of it's ability to exercise force.
+9.3. Governing can be imperfect if it fails to enforce the law.
+9.5. Governing can be disordered if it tries to achieve goods outside of its
      natural purpose.
-9.6. A government can be imperfect if it fails to adapt its laws prudently to
+9.6. Governing can be imperfect if it fails to adapt its laws prudently to
      to the practical realities in which it governs.
 
 10. Do we live in a world of mostly perfect governments?
@@ -223,28 +219,30 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
           means lead to disordered outcomes.
           
 15. Is physical force the only kind of force that can be applied by a human system?
-15.1 No, there a six kinds of force that can be applied by a human system.
-15.1.1 Physical force
-15.1.2 Spiritual force (in the case of the Church and its power over the sacraments)
-15.1.3 Economic force
-15.1.4 Truth
-15.1.5 Beauty
-15.1.6 Witness
+15.1. No, there a six kinds of force that can be applied by a human system.
+15.1.1. Physical force
+15.1.2. Exclusion from the sacraments (in the case of the Church and its special powers)
+15.1.3. Economic force
+15.1.4. Truth
+15.1.5. Beauty
+15.1.6. Witness
+15.1.6.1. Witness means that an individual is aware their behavior is being observed.
+15.1.6.2. The force of witness is proportional to the moral virtue of the observers.
 
 16. Why are the six human system forces considered forces?
 16.1. Because they can be directed to compel the behavior of a man against his will.
 
-17. Are the harmful or non-harmful forces more perfect?
-17.1. The non-harmful forces are more perfect because while harmful forces can compel
-      the exterior behavior of man the non-harmful forces can compel his inner nature.
-      
-18. Can you categorize the six human system forces?
-18.1 Yes. Forces can be categorized as "harmful" or "non-harmful"
-18.1.1 Physical, spiritual and economic force are harmful forces because their application
-       always harms their object.
-18.1.2 Truth, beauty and witness are non-harmful because their application never harms 
+17. Can you categorize the six human system forces?
+17.1 Yes. Forces can be categorized as "harmful" or "non-harmful"
+17.1.1 Physical force, exclusion from the sacraments and economic force are harmful 
+       forces because their application always harms their object.
+17.1.2 Truth, beauty and witness are non-harmful because their application never harms 
        their object and in fact works some good.
        
+18. Are the harmful or non-harmful forces more perfect?
+18.1. The non-harmful forces are more perfect because while harmful forces can compel
+      the exterior behavior of man the non-harmful forces can compel his inner nature.
+      
 19. Do demons attempt to gain control over human systems that can apply harmful force?
 19.1. Yes, demons will always attempt gain control over human systems that apply
       harmful force.
@@ -254,7 +252,7 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
       because the non-harmful forces of Truth, Beauty and Witness always work some good
       and are therefore incompatible with demonic ends. 
 20.2. Instead demons will attempt to destroy the system and replace it with a system
-      that is impotent and generates the opposite of the non-harmful force: Lies, 
+      that is impotent and generates the inverse of the non-harmful forces: Lies, 
       Ugliness and Secrecy.
 20.2.1. Lies, Ugliness and Secrecy are impotent because they lack the ability to compel
         man's exterior behavior or his inner nature against his will (the will must
