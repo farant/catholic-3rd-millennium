@@ -262,6 +262,7 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 20.1.1. To have a strong disordered will one must most explicitly set oneself against
         God. This is not common because it causes pain to do so and because most people 
         do not exercise substantial control over their beliefs.
+20.1.1.1. Obviously all demons have strong disordered wills.
 
 21. Do demons attempt to gain control over human systems that can apply harmful force?
 21.1. Yes, demons will always attempt gain control over human systems that apply
