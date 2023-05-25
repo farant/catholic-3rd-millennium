@@ -295,6 +295,8 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
       holding the majority of power in regards to the seven human forces.
 25.1.1. Often this faction does not hold numerical majority due to concentration
         of power in harmful forces, i.e. physical and economic force.
+25.1.2. The measure of power is the sum of all the harmful and non-harmful forces
+        available to the faction.
 25.2. If the faction holding the majority of power becomes less disordered then the
       government will become less disordered.
 25.3. If a less disordered faction gains the majority of power the government will
