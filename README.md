@@ -129,7 +129,7 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 2.1.1. Examples include: the Church, the family, businesses, religious communities and 
        volunteer groups.
 
-3. What is the distinguishing quality of a "government" that distinguishes it from other
+3. What is the distinguishing quality of a "government" that delineates it from other
    kinds of human systems?
 3.1. The distinguishing quality of a government is that it is larger than a family and
      it exercises the function of creating laws with the ability to enforce those laws 
