@@ -241,7 +241,7 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 16.1. Because they can be directed to compel the behavior of a man against his will.
 
 17. Can you categorize the seven human system forces?
-17.1 Yes. Forces can be categorized as "harmful" or "non-harmful"
+17.1. Yes. Forces can be categorized as "harmful" or "non-harmful"
 17.1.1. Physical force, exclusion from the sacraments and economic force are harmful 
         forces because their application always harms their object.
 17.1.2. Truth, beauty, witness and natural authority are non-harmful because their 
