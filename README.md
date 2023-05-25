@@ -192,6 +192,12 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
       at random?
 12.2.1. No, in a human system demons will specifically target the individuals with the 
         greatest power to disorder the system towards evil
+12.2.2. The amount of demonic attack someone is subject to is proportional to their power
+        to affect the system. 
+12.2.2.1. A man must exercise virtue and reliance on God proportional to his responsibility
+          and power if he is not willing to serve demonic purposes. 
+12.2.3. If through ignorance or fallen human nature an individual is already serving
+        the demonic purposes then there is no need for them to experience demonic attack.
 12.3. In a government more imperfect in scope (i.e. a "larger" government) individuals 
       targeted for severe corruption have the potential to exercise evil over a greater 
       number people with less natural checks than would be available to correct or remove
