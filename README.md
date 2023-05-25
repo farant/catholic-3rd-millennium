@@ -1,3 +1,6 @@
+![image](https://github.com/farant/catholic-3rd-millennium/assets/14899475/7f85a155-729e-4bfa-b76b-af1dd82ec498)
+
+
 # Catholic Third Millennium
 
 ### What are computers good for?
