@@ -190,23 +190,24 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 12.1. Demons generally are able to succeed at severely corrupting a small number of 
       people, succeed at moderately corrupting a moderate number of people, and to 
       succeed in lying to a great number of people.
-12.2. In a human system are the inviduals demons target for severe corruption distributed 
-      at random?
-12.2.1. No, in a human system demons will specifically target the individuals with the 
-        most responsibility to preserve the system and those with the most natural 
-        authority to disorder the system towards evil.
-12.2.1.1. This is permitted because God desires greater perfection from those to whom 
-          he gives greater natural authority.
-12.2.2. The amount of demonic attack someone is subject to is proportional to their
-        natural authority or responsibility within the system. 
-12.2.2.1. A man must exercise virtue and reliance on God proportional to his responsibility
-          and power if he is not willing to serve demonic purposes. 
-12.2.3. If through ignorance or fallen human nature an individual is already serving
-        the demonic purposes then there is no need for them to experience demonic attack.
-12.3. In a government more imperfect in scope (i.e. a "larger" government) individuals 
+12.2. In a government more imperfect in scope (i.e. a "larger" government) individuals 
       targeted for severe corruption have the potential to exercise evil over a greater 
       number people with less natural checks than would be available to correct or remove
       that individual from power than there would be in a government more perfect in scope.
+12.3. In a human system are the inviduals demons target for severe corruption distributed 
+      at random?
+12.3.1. No, in a human system demons will specifically target the individuals with the 
+        most responsibility to preserve the system and those with the most natural 
+        authority to disorder the system towards evil.
+12.3.1.1. This is permitted because God desires greater perfection from those to whom 
+          he gives greater natural authority.
+12.3.2. The amount of demonic attack someone is subject to is proportional to their
+        natural authority or responsibility within the system. 
+12.3.2.1. A man must exercise virtue and reliance on God proportional to his responsibility
+          and power if he is not willing to serve demonic purposes. 
+12.3.3. If through ignorance or fallen human nature an individual is already serving
+        the demonic purposes then there is no need for them to experience demonic attack.
+
 
 13. What is the purpose of the special powers that government has relative to other 
     human systems?
