@@ -182,32 +182,31 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
         with perhaps a few exceptions.
 
 11. What are the negative consequences of imperfect governments?
-11.1. Governments that are imperfect in scope are ripe for demonic manipulation.
+11.1. Imperfections of scope lead to a larger capacity for harm when leaders fall
+      prey to moral corruption or act imprudently out of ignorance.
 11.2. Imperfections of structure lead to imperfections of governing.
 11.3. Imperfections of governing are intrinsically harmful.
 
-12. Why are governments that are imperfect in scope ripe for demonic manipulation?
-12.1. Demons generally are able to succeed at severely corrupting a small number of 
-      people, succeed at moderately corrupting a moderate number of people, and to 
-      succeed in lying to a great number of people.
-12.2. In a government more imperfect in scope (i.e. a "larger" government) individuals 
-      targeted for severe corruption have the potential to exercise evil over a greater 
-      number people with less natural checks than would be available to correct or remove
-      that individual from power than there would be in a government more perfect in scope.
-12.3. In a human system are the inviduals demons target for severe corruption distributed 
-      at random?
-12.3.1. No, in a human system demons will specifically target the individuals with the 
-        most responsibility to preserve the system and those with the most natural 
-        authority to disorder the system towards evil.
-12.3.1.1. This is permitted because God desires greater perfection from those to whom 
-          he gives greater natural authority.
-12.3.2. The amount of demonic attack someone is subject to is proportional to their
-        natural authority or responsibility within the system. 
-12.3.2.1. A man must exercise virtue and reliance on God proportional to his responsibility
-          and power if he is not willing to serve demonic purposes. 
-12.3.3. If through ignorance or fallen human nature an individual is already serving
-        the demonic purposes then there is no need for them to experience demonic attack.
-
+12. Are governments that are imperfect in scope more ripe for demonic manipulation?
+12.1. Probably not.
+12.2. The larger the government the greater the material temptations that will be
+      presented to those in positions of power and therefore if left to their own
+      devices the greater the chance that they will fall into a state of mortal sin.
+12.2.1. The risk of leaders falling into mortal sin and inviting demonic manipulation
+        applies to all human systems, not just governments, if the power of leadership
+        also accrues economic or social prestige.
+12.3. Ironically this risk is also why God permits greater demonic attacks on
+      individuals in leadership positions.
+12.3.1. This is not because demons have agency and are intelligently choosing the
+        most "high value" targets (although it can present the illusion of this 
+        being the case) but because leaders face greater risk of mortal sin
+        and God wants to help them.
+12.3.2. God provides greater perfection to the leader to resist mortal sin through
+        perfectly tempered allowance of demonic activity that can be carefully
+        modulated to never exceed what the individual can bear.
+12.3.3. The individual is actually much safer while under demonic attack since
+        demons are completely subject to God's authority. This is in contrast to 
+        beind scandalized by human free will which God does not directly restrain.
 
 13. What is the purpose of the special powers that government has relative to other 
     human systems?
