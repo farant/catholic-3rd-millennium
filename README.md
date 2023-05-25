@@ -174,13 +174,16 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 
 10. Do we live in a world of mostly perfect governments?
 10.1. No, we live in a world of very imperfect governments.
-10.1.1. Almost every government in the world is far too large
-10.1.2. Almost every government in the world is imperfect in all the ways enumerated 
-        above in 9.1 through 9.9.
+10.1.1. Almost every government in the world is imperfect in scope.
+10.1.2. Almost every government in the world is imperfect in structure
+        regarding their relationship to Christ's church and their relationship
+        to the sovereign family.
+10.1.3. Every government in the world is imperfect in every aspect of governing
+        with perhaps a few exceptions.
 
 11. What are the negative consequences of imperfect governments?
-11.1 Imperfect governments are ripe for demonic manipulation
-11.2 Imperfect governments can legislate and enforce unjust and immoral laws
+11.1. Imperfect governments are ripe for demonic manipulation
+11.2. Imperfect governments can legislate and enforce unjust and immoral laws
 
 12. Why are governments imperfect in scope ripe for demonic manipulation?
 12.1. Demons generally are able to succeed at severely corrupting a small number of 
