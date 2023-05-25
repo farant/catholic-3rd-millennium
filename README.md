@@ -153,8 +153,8 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
      structure or governing.
      
 7. What are the imperfections of scope?
-7.1 Being too geographically large is an imperfection of scope.
-7.2 Incorporating too many people is an imperfection of scope.
+7.1. Being too geographically large is an imperfection of scope.
+7.2. Incorporating too many people is an imperfection of scope.
 
 8. What are the imperfections of structure?
 8.1. A disordered relationship to Christ's church.
