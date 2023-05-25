@@ -202,7 +202,7 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 12.3. In a government more imperfect in scope (i.e. a "larger" government) individuals 
       targeted for severe corruption have the potential to exercise evil over a greater 
       number people with less natural checks than would be available to correct or remove
-      that individual from power as there would be in a government more perfect in scope.
+      that individual from power than there would be in a government more perfect in scope.
 
 13. What is the purpose of the special powers that government has relative to other 
     human systems?
