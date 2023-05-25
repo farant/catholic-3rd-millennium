@@ -205,8 +205,8 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 
 13. What is the purpose of the special powers that government has relative to other 
     human systems?
-13.1. A government exists to mediate between its citizens and families as well as it can 
-      to protect them from the negative affects of fallen human nature, demonic corruption 
+13.1. A government exists to mediate between its citizens and families as well as to 
+      protect them from the negative affects of fallen human nature, demonic corruption 
       and to resolve disputes between individuals when these functions cannot be 
       accomplished by any other human system.
 
