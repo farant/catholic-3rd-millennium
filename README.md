@@ -141,12 +141,6 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 5. Is it more perfect for a government to be geographically large or geographically small?
 5.1. The most perfect size of a government is a relatively small geographic region 
      containing no more than ~50,000-100,000 people
-5.1.1. Why is a government incorporating <100,000 people more perfect?
-5.1.1.1. Because if the government is larger than that size the people within the human 
-         system cannot sustain sufficient personal relationships with each other.
-5.1.1.2. Because if the government is larger than the implied geographical size of <100,000
-         people lawmakers and law enforcers begin to be too physically isolated from the 
-         "on the ground reality" that their decision making is affecting.
 
 6. How can we categorize the ways a government can be imperfect?
 6.1. We can classify the imperfections of a government as either imperfections of scope,
@@ -182,8 +176,18 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
         with perhaps a few exceptions.
 
 11. What are the negative consequences of imperfect governments?
-11.1. Imperfections of scope lead to a larger capacity for harm when leaders fall
-      prey to moral corruption or act imprudently out of ignorance.
+
+11.1. Imperfections of scope, i.e. governments larger than 100,000 people, lead 
+      to many negative consequences.
+11.1.1. There is a greater capacity for harm when leaders fall prey to moral 
+        corruption or act imprudently out of ignorance.
+11.1.2. It is difficult to correct immoral leaders due to the greater total power
+        available to the government.
+11.1.3. People leading the government cannot sustain sufficient personal relationships 
+        with the governed.
+11.1.4. If the government is larger than the implied geographical size of <100,000
+        people then lawmakers and law enforcers begin to be too physically isolated 
+        from the "on the ground reality" that their activity impacts.
 11.2. Imperfections of structure lead to imperfections of governing.
 11.3. Imperfections of governing are intrinsically harmful.
 
