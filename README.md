@@ -185,7 +185,7 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 11.1.3. People leading the government cannot sustain sufficient personal relationships 
         with the governed.
 11.1.4. If the government is too large geographically then lawmakers and law enforcers
-        begin to be too physically isolated from the consequences of their activities.
+        begin to be physically isolated from the consequences of their activities.
 11.2. Imperfections of structure lead to imperfections of governing.
 11.3. Imperfections of governing are intrinsically harmful.
 
