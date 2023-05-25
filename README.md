@@ -293,9 +293,47 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 25.1. Roughly speaking a government is reflective of the faction of the population
       holding the majority of power in regards to the seven human forces.
 25.1.1. Often this faction does not hold numerical majority due to concentration
-        of power in harmful forces.
+        of power in harmful forces, i.e. physical and economic force.
 25.2. If the faction holding the majority of power becomes less disordered then the
       government will become less disordered.
 25.3. If a less disordered faction gains the majority of power the government will
       change to reflect the less disordered faction.
+      
+26. How can the disorder of a ruling faction be corrected?
+26.1. Generally through the application of the four non-harmful forces.
+26.1.1. The non-harmful forces are most effective because of their ability to
+        compel the human interior, i.e. the stronghold of moral disorder.
+        
+27. Is it easy to change disorder through the application of non-harmful forces?
+27.1. It depends on if the disorder is moral or intellectual.
+27.2. Moral disorder is hard to change.
+27.2.1. Generally moral disorder is caused by fallen human nature or by some level 
+        of demonic manipulation.
+27.2.2. Similar to an exorcism the pressure of non-harmful forces to compel moral 
+        order must be constant and strong.
+27.2.3. Similar to an exorcism application of non-harmful forces to moral disorder
+        will generally provoke displays of resistance.
+27.2.3.1. Displays of resistance tend to peak immediately preceding victory unless 
+          the power of non-harmful force is overwhelming in strength.
+27.2.3.2. Displays of resistance are meant to disrupt the application of non-harmful
+          forces by invoking fear, doubt or confusion.
+27.3. Intellectual disorder is relatively easy to change with the proper resources.
+27.3.1. Intellectual disorder is either caused by lies or ignorance
+27.3.1.1. Ignorance is easier to change than lies.
+27.3.1.2. Lies tend to ultimately have a demonic origin.
+27.3.2. The key resources required to correct intellectual disorder are truth and
+        understanding of the truth.
+27.3.2.1. Often people who are not intellectually disordered possess truth without
+          understanding of the truth.
+27.3.2.1.1. When one possesses truth without understanding of the truth you are
+            vulnerable to intellectual disorder via lies.
+27.3.2.1.1.1. There is a demonic "anti-theology" (gnosticism, manichaeism, etc.) 
+              that one can trace through its various historical manifestations
+              that is specifically tailored to lead people who possess truth 
+              without understanding of the truth into intellectual disorder.
+27.3.2.1.1.2. It is extremely important for culture to develop and preserve 
+              understanding of the truth.
+27.3.2.1.1.3. Materially novel situations such as technological breakthroughs are
+              particularly fraught with potential for intellectual disorder
+              because understanding of the truth has not yet been developed.
 ```
