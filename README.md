@@ -159,11 +159,9 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 8. What are the imperfections of structure?
 8.1. A disordered relationship to Christ's church.
 8.2. A disordered relationship to the sovereign family.
-8.3. A disordered relationship to other important 
-     human systems.
-8.4. Lack of ability to exercise force
-8.5. Lack of ability to legislate laws when needed
-8.6. Lack of ability to adjudicate
+8.3. Lack of ability to exercise force
+8.4. Lack of ability to legislate laws when needed
+8.5. Lack of ability to adjudicate
 
 9. What are the imperfections of governing? 
 9.1. Governing can be imperfect due to immoral law.
