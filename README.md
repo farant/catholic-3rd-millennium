@@ -143,7 +143,7 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
      containing no more than ~50,000-100,000 people
 5.1.1. Why is a government incorporating <100,000 people more perfect?
 5.1.1.1. Because if the government is larger than that size the people within the human 
-         system cannot sustain personal relationships with each other anymore.
+         system cannot sustain sufficient personal relationships with each other.
 5.1.1.2. Because if the government is larger than the implied geographical size of <100,000
          people lawmakers and law enforcers begin to be too physically isolated from the 
          "on the ground reality" that their decision making is affecting.
