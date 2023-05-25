@@ -225,8 +225,8 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 14.1.2.1. No, it is not morally good due to the principal of the integral good. Disordered
           means lead to disordered outcomes.
           
-15. Is physical force the only kind of force that can be applied by a human system?
-15.1. No, there are seven kinds of force that can be applied by a human system.
+15. Is physical force the only kind of force that can be applied in a human system?
+15.1. No, there are seven kinds of force that can be applied in a human system.
 15.1.1. Physical force
 15.1.2. Exclusion from the sacraments (exercised by the Church via its special powers)
 15.1.3. Economic force
