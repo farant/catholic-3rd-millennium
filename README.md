@@ -139,14 +139,14 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 4.1. It is less perfect for governments to overlap geographically
 
 5. Is it more perfect for a government to be geographically large or geographically small?
-5.1. The most perfect size of a government is relatively small geographic region 
-     containing ~50,000-100,000 people
-5.1.1. Why is a government incorporating ~100,000 people more perfect?
-5.1.1.1. Because larger than that size people within the human system cannot sustain 
-         personal relationships with eachother
-5.1.1.2. Because larger than the implied geographical size lawmakers and law enforcers 
-         begin to be too physically isolated from the "on the ground reality" that their
-         decision making is affecting.
+5.1. The most perfect size of a government is a relatively small geographic region 
+     containing no more than ~50,000-100,000 people
+5.1.1. Why is a government incorporating <100,000 people more perfect?
+5.1.1.1. Because if the government is larger than that size the people within the human 
+         system cannot sustain personal relationships with each other anymore.
+5.1.1.2. Because if the government is larger than the implied geographical size of <100,000
+         people lawmakers and law enforcers begin to be too physically isolated from the 
+         "on the ground reality" that their decision making is affecting.
 
 6. How can we categorize the ways a government can be imperfect?
 6.1. We can classify the imperfections of a government as either imperfections of scope,
