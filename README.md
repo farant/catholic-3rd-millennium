@@ -302,8 +302,9 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 25. How are the disorders of a government corrected?
 25.1. Roughly speaking a government is reflective of the faction of the population
       holding the majority of power in regards to the seven human forces.
-25.1.1. Often this faction does not hold numerical majority due to concentration
-        of power in harmful forces, i.e. physical and economic force.
+25.1.1. Often this faction is not the strongest because of numerical majority but
+        instead due to a concentration of power in harmful forces, i.e. physical 
+        and economic force.
 25.1.2. The measure of power is the sum of all the harmful and non-harmful forces
         available to the faction.
 25.2. If the faction holding the majority of power becomes less disordered then the
