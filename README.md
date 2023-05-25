@@ -130,12 +130,14 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 
 2. Are all human systems categorizable as governments?
 2.1. No, there are many human systems that are not governments.
+2.1.1 Examples include: the Church, the family, businesses, groups of friends, 
+      religious communities and volunteer groups.
 
 3. What is the distinguising quality of a "government" that distinguishes it from other
    kinds of human systems?
 3.1. The distinguishing quality of a government is a that it is larger than a family and
      it exercises the function of creating laws with the ability to enforce those laws 
-     through physical power.
+     through physical force.
 
 4. Is it more perfect or less perfect for governments to overlap geographically?
 4.1. It is less perfect for governments to overlap geographically
@@ -176,45 +178,87 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 9.6. A government can be imperfect if it fails to adapt its laws prudently to
      to the practical realities in which it governs.
 
-7. Do we live in a world of mostly perfect governments?
-7.1. No, we live in a world of very imperfect governments.
-7.1.1. Almost every government in the world is far too large
-7.1.2. Almost every government in the world is imperfect in all the ways enumerated above in 6.1 through 6.9.
+10. Do we live in a world of mostly perfect governments?
+10.1. No, we live in a world of very imperfect governments.
+10.1.1. Almost every government in the world is far too large
+10.1.2. Almost every government in the world is imperfect in all the ways enumerated 
+        above in 9.1 through 9.9.
 
-8. What are the negative consequences of imperfect governments?
-8.1 Imperfect governments are ripe for demonic manipulation
+11. What are the negative consequences of imperfect governments?
+11.1 Imperfect governments are ripe for demonic manipulation
+11.2 Imperfect governments can legislate and enforce unjust and immoral laws
 
-9. Why are imperfect governments ripe for demonic manipulation?
-9.1. Demons generally are able to succeed at severely corrupting a small number of 
+12. Why are governments imperfect in scope ripe for demonic manipulation?
+12.1. Demons generally are able to succeed at severely corrupting a small number of 
      people, succeed at moderately corrupting a moderate number of people, and succeed 
      at lying to a great number of people.
-9.2. In a human system are the inviduals demons target for severe corruption distributed 
-     at random?
-9.2.1. No, in a human system demons will specifically target the individuals with the 
-       greatest power to warp the system towards evil
-9.3. In a more imperfect government (i.e. a "larger" government) individuals targeted for 
-     severe corruption have the potential to exercise evil over a greater number people 
-     with less natural checks that would be available to correct or remove that individual 
-     from power as there would be in a more perfect government.
+12.2. In a human system are the inviduals demons target for severe corruption distributed 
+      at random?
+12.2.1. No, in a human system demons will specifically target the individuals with the 
+        greatest power to disorder the system towards evil
+12.3. In a government more imperfect in scope (i.e. a "larger" government) individuals 
+      targeted for severe corruption have the potential to exercise evil over a greater 
+      number people with less natural checks than would be available to correct or remove
+      that individual from power as there would be in a government more perfect in scope.
 
-10. What is the purpose of the special powers that government has relative to other 
+13. What is the purpose of the special powers that government has relative to other 
     human systems?
-10.1. A government exists to mediate between its citizens and families as well as it can 
+13.1. A government exists to mediate between its citizens and families as well as it can 
       to protect them from the negative affects of fallen human nature, demonic corruption 
       and to resolve disputes between individuals when these functions cannot be 
       accomplished by any other human system.
 
-11. Do imperfect governments only use their special powers for their intended purposes?
-11.1. No, one of the primary ways that imperfect governments are distorted as a system 
+14. Do imperfect governments only use their special powers for their intended purposes?
+14.1. No, one of the primary ways that imperfect governments are distorted as a system 
       is to wield their special power in ways that are outside of the scope of their 
       special purpose.
-11.1.1. Are all cases of a government using its special powers outside of their scope due 
+14.1.1. Are all cases of a government using its special powers outside of their scope due 
         to demonic corruption?
-11.1.1.1. No, this distortion of government can also be caused by fallen human nature or 
+14.1.1.1. No, this distortion of government can also be caused by fallen human nature or 
           by well-intentioned individuals trying to use the powers of government to 
           accomplish some kind of good.
-11.1.2. If a government's powers are used to accomplish an objective moral good that is 
+14.1.2. If a government's powers are used to accomplish an objective moral good that is 
         outside of the natural scope of the government's purpose is that act morally good?
-11.1.2.1. No, it is not morally good due to the principal of the integral good. Disordered
+14.1.2.1. No, it is not morally good due to the principal of the integral good. Disordered
           means lead to disordered outcomes.
+          
+15. Is physical force the only kind of force that can be applied by a human system?
+15.1 No, there a six kinds of force that can be applied by a human system.
+15.1.1 Physical force
+15.1.2 Spiritual force (in the case of the Church and its power over the sacraments)
+15.1.3 Economic force
+15.1.4 Truth
+15.1.5 Beauty
+15.1.6 Witness
+
+16. Why are the six human system forces considered forces?
+16.1. Because they can be directed to compel the behavior of a man against his will.
+
+17. Are the harmful or non-harmful forces more perfect?
+17.1. The non-harmful forces are more perfect because while harmful forces can compel
+      the exterior behavior of man the non-harmful forces can compel his inner nature.
+      
+18. Can you categorize the six human system forces?
+18.1 Yes. Forces can be categorized as "harmful" or "non-harmful"
+18.1.1 Physical, spiritual and economic force are harmful forces because their application
+       always harms their object.
+18.1.2 Truth, beauty and witness are non-harmful because their application never harms 
+       their object and in fact works some good.
+       
+19. Do demons attempt to gain control over human systems that can apply harmful force?
+19.1. Yes, demons will always attempt gain control over human systems that apply
+      harmful force.
+     
+20. Do demons attempt to gain control over human systems that apply non-harmful force?
+20.1. No, demons will not attempt to control systems that apply non-harmful force
+      because the non-harmful forces of Truth, Beauty and Witness always work some good
+      and are therefore incompatible with demonic ends. 
+20.2. Instead demons will attempt to destroy the system and replace it with a system
+      that is impotent and generates the opposite of the non-harmful force: Lies, 
+      Ugliness and Secrecy.
+20.2.1. Lies, Ugliness and Secrecy are impotent because they lack the ability to compel
+        man's exterior behavior or his inner nature against his will (the will must
+        co-operate for them to effect a change).
+     
+     
 ```
