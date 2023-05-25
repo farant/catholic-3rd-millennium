@@ -189,7 +189,7 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 12. Why are governments that are imperfect in scope ripe for demonic manipulation?
 12.1. Demons generally are able to succeed at severely corrupting a small number of 
       people, succeed at moderately corrupting a moderate number of people, and to 
-      succeed at lying to a great number of people.
+      succeed in lying to a great number of people.
 12.2. In a human system are the inviduals demons target for severe corruption distributed 
       at random?
 12.2.1. No, in a human system demons will specifically target the individuals with the 
