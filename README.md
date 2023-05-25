@@ -121,8 +121,8 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 1.1.2.1. No, the system incorporates (i.e. responds to and affects in varying degrees) 
          every element of the geographic region in which the system is operational
 1.1.3. What is a system?
-1.1.3.1. A system is a complex group of interacting parts that is directed towards
-         specific purposes.
+1.1.3.1. A system is a complex group of interacting parts that as a whole is directed 
+         towards specific purposes.
 
 2. Are all human systems categorizable as governments?
 2.1. No, there are many human systems that are not governments.
