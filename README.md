@@ -130,10 +130,10 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 
 2. Are all human systems categorizable as governments?
 2.1. No, there are many human systems that are not governments.
-2.1.1 Examples include: the Church, the family, businesses, groups of friends, 
-      religious communities and volunteer groups.
+2.1.1. Examples include: the Church, the family, businesses, groups of friends, 
+       religious communities and volunteer groups.
 
-3. What is the distinguising quality of a "government" that distinguishes it from other
+3. What is the distinguishing quality of a "government" that distinguishes it from other
    kinds of human systems?
 3.1. The distinguishing quality of a government is a that it is larger than a family and
      it exercises the function of creating laws with the ability to enforce those laws 
@@ -169,7 +169,7 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 8.5. Lack of ability to legislate laws when needed
 8.6. Lack of ability to adjudicate
 
-9. What are the imperfections of governing? 
+9. What are the imperfections of government? 
 9.1. A government can be imperfect due to immoral law.
 9.2. A government can be imperfect due to abuse of it's ability to exercise force.
 9.3. A government can be imperfect if it fails to enforce the law.
