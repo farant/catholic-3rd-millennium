@@ -265,7 +265,7 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 20.1.1.1. All demons have strong disordered wills.
 
 21. Do demons attempt to gain control over human systems that can apply harmful force?
-21.1. Yes, demons will always attempt gain control over human systems that apply
+21.1. Yes, demons will always attempt to gain control over human systems that apply
       harmful force.
      
 22. Do demons attempt to gain control over human systems that apply non-harmful force?
