@@ -312,6 +312,9 @@ https://www.youtube.com/watch?v=InlbmbGxOK0
 26.1. Generally through the application of the four non-harmful forces.
 26.1.1. The non-harmful forces are most effective because of their ability to
         compel the human interior, i.e. the stronghold of moral disorder.
+26.2. Sometimes governments or human systems try to correct each other through
+      the application of harmful forces. This is generally not desirable or
+      effective at achieving any moral good. This could also be called "war."
         
 27. Is it easy to change disorder through the application of non-harmful forces?
 27.1. It depends on if the disorder is moral or intellectual.
