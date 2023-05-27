@@ -1,5 +1,7 @@
 ![image](https://github.com/farant/catholic-3rd-millennium/assets/14899475/7f85a155-729e-4bfa-b76b-af1dd82ec498)
 
+### Discord link if anyone wants to brainstorm:
+https://discord.gg/nrnEYkedMF
 
 # Catholic Third Millennium
 
